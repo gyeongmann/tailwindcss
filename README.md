@@ -1,29 +1,12 @@
-<p align="center">
-  <a href="https://tailwindcss.com" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg">
-      <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="350" height="70" style="max-width: 100%;">
-    </picture>
-  </a>
-</p>
+![BlockNote image](https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg)
 
-<p align="center">
-  A utility-first CSS framework for rapidly building custom user interfaces.
-</p>
+A utility-first CSS framework for rapidly building custom user interfaces.
 
-<p align="center">
-    <a href="https://github.com/tailwindlabs/tailwindcss/actions"><img src="https://img.shields.io/github/actions/workflow/status/tailwindlabs/tailwindcss/ci.yml?branch=next" alt="Build Status"></a>
-    <a href="https://www.npmjs.com/package/tailwindcss"><img src="https://img.shields.io/npm/dt/tailwindcss.svg" alt="Total Downloads"></a>
-    <a href="https://github.com/tailwindcss/tailwindcss/releases"><img src="https://img.shields.io/npm/v/tailwindcss.svg" alt="Latest Release"></a>
-    <a href="https://github.com/tailwindcss/tailwindcss/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/tailwindcss.svg" alt="License"></a>
-</p>
-
----
+![BlockNote image](https://camo.githubusercontent.com/537949e7452abca45b2676e796eb0951fc3daa7507527e8e2de6b7ce0b91e9bb/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f616374696f6e732f776f726b666c6f772f7374617475732f7461696c77696e646c6162732f7461696c77696e646373732f63692e796d6c3f6272616e63683d6e657874)![BlockNote image](https://camo.githubusercontent.com/49e47fd71578f80f269e19b1fc027c35197927d809239a7a5bd3d4e6bd1c4afd/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f64742f7461696c77696e646373732e737667)![BlockNote image](https://camo.githubusercontent.com/84859f7198466f9d755a318185cb819f153221d74e10030dcfcc79801f2160c0/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f7461696c77696e646373732e737667)![BlockNote image](https://camo.githubusercontent.com/5ef8047c46d877cc7349bd223fa0885619a050cf20663688478fb5b310c2a738/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f7461696c77696e646373732e737667)
 
 ## Documentation
 
-For full documentation, visit [tailwindcss.com](https://tailwindcss.com).
+For full documentation, visit [tailwindcss.com](http://tailwindcss.com).
 
 ## Community
 
@@ -38,3 +21,6 @@ For chatting with others using the framework:
 ## Contributing
 
 If you're interested in contributing to Tailwind CSS, please read our [contributing docs](https://github.com/tailwindcss/tailwindcss/blob/next/.github/CONTRIBUTING.md) **before submitting a pull request**.
+
+
+
